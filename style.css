@@ -1,13 +1,13 @@
 body{
-    background-color:rgb(250, 242, 230);
+    background-color:rgb(255, 255, 0);
 }
 p1{
-    color:rgb(92, 72, 39);
+    color:black;
     font-weight: 200; 
     font-family: Courier, 'Lucida Console', monospace;
 }
 p{
-    color:rgb(92, 72, 39);
+    color:black;
     font-weight: 300; 
     font-family: Courier, 'Lucida Console', monospace;
 }
