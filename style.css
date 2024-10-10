@@ -1,0 +1,17 @@
+body{
+    background-color:rgb(250, 242, 230);
+}
+p1{
+    color:rgb(92, 72, 39);
+    font-weight: 200; 
+    font-family: Courier, 'Lucida Console', monospace;
+}
+p{
+    color:rgb(92, 72, 39);
+    font-weight: 300; 
+    font-family: Courier, 'Lucida Console', monospace;
+}
+
+div{
+    max-width: 600px;
+}
